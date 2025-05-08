@@ -5,7 +5,6 @@
 <h3 align="center">I am a professional frontened Developer From Pakistan.</h3>
 
 <p align="center"> <img src="girl.jpg" alt="animated-coding" width="100%"> </p>
-<p align="center"><center><img src="Web Tutorials.jpg" alt="Web Tutorials" width="10%"></center></p>
 
 <img src="animated gif.gif" alt="animated gif" width="400" align="right">
 
