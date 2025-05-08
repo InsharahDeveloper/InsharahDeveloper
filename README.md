@@ -25,8 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/insharah attariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="insharah attariya" height="30" width="40" /></a>
-<a href="https://fb.com/developer insharah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="developer insharah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/developerinsharah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="insharah attariya" height="30" width="40" /></a>
 <a href="https://instagram.com/insharahdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insharahdeveloper" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/coding is a funfact" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding is a funfact" height="30" width="40" /></a>
 </p>
