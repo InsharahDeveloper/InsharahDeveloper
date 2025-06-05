@@ -11,17 +11,12 @@
 <img width="400" align="right" href="https://github.com/user-attachments/assets/d5b9876c-58e0-43f8-a6bb-3f6b1bf86b9f">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerinsharah&label=Profile%20views&color=0e75b6&style=flat" alt="developerinsharah" /> </p>
 
-- 🔭 I’m currently Learning **Bootstrap**
-
-- 👨‍💻 All of my projects are available at [https://github.com/DeveloperInsharah?tab=repositories](https://github.com/DeveloperInsharah?tab=repositories)
-
-- 💬 Ask me about **HTML & CSS**
-
-- 📫 How to reach me **insharahattariya@gmail.com**
-
-- 📄 Know about my experiences [Website Development](Website Development)
-
-- ⚡ Fun fact **Coding**
+👩‍💻 Front-End Developer | Future Full-Stack Engineer & Data Scientist
+🔧 Skills: React, JavaScript, Tailwind CSS, GSAP, Shery.js
+🌱 Learning: Python, Node.js, Express.js, MongoDB, Data Science
+🚀 Building a women-focused web dev learning platform
+💼 Freelancer | Passionate about clean UI & impactful projects
+📍 Based in Pakistan | Urdu & English
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
